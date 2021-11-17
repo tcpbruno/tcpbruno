@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tcpbruno
-- 👀 I’m interested in Algoriths
+- 👀 I’m interested in AI and Algorithm
 - 🌱 I’m currently learning Python
 - 📫 How to reach me 
 
